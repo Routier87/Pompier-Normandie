@@ -1,0 +1,40 @@
+body {
+    margin: 0;
+    background: transparent;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#zta {
+    position: absolute;
+    bottom: 5%;
+    left: 2%;
+    display: none;
+    background: rgba(20,20,20,0.9);
+    padding: 15px;
+    border-radius: 10px;
+    color: white;
+    width: 420px;
+    display: flex;
+    gap: 15px;
+}
+
+.logo {
+    width: 64px;
+    height: 64px;
+}
+
+h1 {
+    margin: 0;
+    font-size: 20px;
+}
+
+h2 {
+    margin: 2px 0;
+    font-size: 14px;
+    color: #4cd137;
+}
+
+p {
+    margin: 5px 0 0;
+    font-size: 13px;
+}
